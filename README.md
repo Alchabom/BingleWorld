@@ -3,7 +3,7 @@ BingleWorld is a personal project created by me as a way to delve into game deve
 
 The file is too big to upload, so below is a link to the download.
 
-https://drive.google.com/file/d/1tH7a7TTAzEanANhEQkn9JhpltnmR1uYC/view?usp=sharing
+https://drive.google.com/file/d/1KZ8cr8kQVlaHTz9C5iYyWoTQ0yLIDso-/view?usp=drive_link
 
 Enjoy! 
 
